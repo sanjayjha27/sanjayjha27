@@ -10,7 +10,8 @@
 
 🧠 Strengthening my **Data Structures & Algorithms** and core Computer Science fundamentals.
 
-🚀 Currently working on a **Digital Banking & Transaction Management System**.
+🚀 Built and deployed a **Digital Banking & Transaction Management System** using Java, Spring Boot, React, PostgreSQL, JWT, and Docker.
+
 
 ---
 
